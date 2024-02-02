@@ -1,6 +1,6 @@
 #sign in page
 
-I builded this project using tailwind css and react to explore some of the features of the tailwind css
+I built this project using tailwind css and react to explore some of the features of the tailwind css
 
 setup
     1.clone the repo
