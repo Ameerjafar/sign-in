@@ -1,8 +1,8 @@
-# React + Vite
+#sign in page
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+I builded this project using tailwind css and react to explore some of the features of the tailwind css
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+setup
+    1.clone the repo
+    2.cd frontend
+    3.run npm install if you already have npm otherwise download the node package manager and then run the command npm install
